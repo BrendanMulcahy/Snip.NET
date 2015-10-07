@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SnipTool__.Properties
+namespace SnipDotNet.Properties
 {
 
 

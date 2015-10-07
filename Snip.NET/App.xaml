@@ -1,7 +1,7 @@
-﻿<Application x:Class="SnipTool__.App"
+﻿<Application x:Class="SnipDotNet.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:SnipTool__"
+             xmlns:local="clr-namespace:SnipDotNet"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

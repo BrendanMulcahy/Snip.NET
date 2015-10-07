@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace SnipTool__
+namespace SnipDotNet
 {
     /// <summary>
     /// Interaction logic for App.xaml

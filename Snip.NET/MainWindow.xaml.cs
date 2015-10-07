@@ -21,7 +21,7 @@ using System.IO;
 using System.Runtime.InteropServices;
 using Rectangle = System.Drawing.Rectangle;
 
-namespace SnipTool__
+namespace SnipDotNet
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

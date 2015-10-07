@@ -3,7 +3,7 @@ using System.IO;
 using System.Text;
 using System.Windows.Controls;
 
-namespace SnipTool__
+namespace SnipDotNet
 {
     public class TextBoxWriter : TextWriter
     {
